@@ -16,3 +16,9 @@ This repository contains the simulation files discussed in the paper. The `sim/`
 ## Data
 
 The experimental data will be made available in this repository soon.
+
+## Citation and Contact
+
+W. Ren, G. R. Duan, P. Li, and H. Kong, "Set-Based Fault-Tolerant Control for Continuous-Time Nonlinear Systems: A Fully Actuated System Approach," IEEE/ASME Transactions on Mechatronics, 2025.
+
+Feel free to contact the author: weijie.ren.@outlook.com, or WeChat ID: 15851058016.
